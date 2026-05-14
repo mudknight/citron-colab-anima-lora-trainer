@@ -2,6 +2,13 @@
 
 A Google Colab notebook for training LoRA adapters for the [Anima](https://huggingface.co/circlestone-labs/Anima) diffusion model, powered by [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts).
 
+## Mudknight notes
+I've made some opinionated changes that I don't think should be upstreamed, so I'm keeping this as a fork for now. Changes include
+
+- Added support for Anima 1.0
+- More sensible defaut values for staying within the 1000 step "limit"
+- Reduced unnecessary inputs for directories and derive them from existing values
+- Exposed `save_last_n_epochs` as a setting so you can keep all epochs
 
 
 ## Links
