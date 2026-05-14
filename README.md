@@ -8,9 +8,8 @@ A Google Colab notebook for training LoRA adapters for the [Anima](https://huggi
 
 | | |
 |:--|:--|
-| 📦 **GitHub** | <a href="https://github.com/citronlegacy/citron-colab-anima-lora-trainer" target="_blank"><img src="https://img.shields.io/badge/GitHub-citron--colab--anima--lora--trainer-181717?logo=github" alt="GitHub"></a> |
-| 🚀 **Open in Colab** | <a href="https://colab.research.google.com/github/citronlegacy/citron-colab-anima-lora-trainer/blob/main/ANIMA_Trainer_v5.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a> |
-| 🤖 **CivitAI** | <a href="https://civitai.com/user/CitronLegacy/models" target="_blank"><img src="https://img.shields.io/badge/CivitAI-Models-blue.svg" alt="CivitAI"></a> |
+| 📦 **GitHub** | <a href="https://github.com/mudknight/citron-colab-anima-lora-trainer" target="_blank"><img src="https://img.shields.io/badge/GitHub-citron--colab--anima--lora--trainer-181717?logo=github" alt="GitHub"></a> |
+| 🚀 **Open in Colab** | <a href="https://colab.research.google.com/github/mudknight/citron-colab-anima-lora-trainer/blob/main/ANIMA_Trainer_v6.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a> |
 
 
 
